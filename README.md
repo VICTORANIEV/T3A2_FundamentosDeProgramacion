@@ -28,7 +28,9 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 +-----------------------------------------------------+
 ~~~~
 
-# Etapa 02
+# Etapa 03. Diseño de la solucion
+Diagrama de la clase
+![]()
 
 
 
